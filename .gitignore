@@ -1,4 +1,5 @@
 runtests/*
+fluidity/*
 twistd.log
 twistd.pid
 state.sqlite
