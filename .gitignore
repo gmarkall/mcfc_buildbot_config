@@ -1,5 +1,7 @@
-runtests/*
-fluidity/*
+runtests
+fluidity
+devtests
+fluidity-dev
 twistd.log
 twistd.pid
 state.sqlite
